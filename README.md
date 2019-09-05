@@ -1,2 +1,1 @@
-# rack
-Repository to test git submodules
+RACK
